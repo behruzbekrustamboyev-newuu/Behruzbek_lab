@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+int main() {
+    char azamat;
+    cout<<"enter the command"<<endl;
+    cin>>azamat;
+    if (azamat == 'g') {
+        cout<<"go"<<endl;
+    }else {
+        cout<<"stop"<<endl;
+}
+return 0;
+}
+
